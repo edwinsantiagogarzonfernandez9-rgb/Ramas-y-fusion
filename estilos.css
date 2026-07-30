@@ -3,3 +3,13 @@ h1{
     text-align: center;
     background-color: blue;
 }
+h2{
+    padding: auto;
+    text-align: center;
+    background-color: red;
+}
+h3{
+    padding: auto;
+    text-align: center;
+    background-color: yellow;
+}
